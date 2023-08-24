@@ -3,10 +3,10 @@ Budgeting Allocation Application
 Please follow the given procedure to see the result
 
 STEP 1: 
-Clone the directory using the command git clone https://github.com/Hemukk/ejtos-react_budget_app.git
+Clone the directory using the command    git clone https://github.com/Hemukk/ejtos-react_budget_app.git
 
 STEP 2:
-Open the directory Cabsharing and run npm start on terminal You will see server start at port : 3000
+Open the directory ejtos-react_budget_app and run npm start on the terminal. You will see the server start at port: 3000
 
 STEP 3:
 Open any browser and run localhost:3000
